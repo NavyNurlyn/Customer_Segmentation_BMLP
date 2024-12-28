@@ -71,5 +71,7 @@ The following files are included in this repository:
 
 ## **Conclusion**
 This project successfully segments customers based on their shopping behavior and applies classification models to predict customer behaviors. The results show that some models, like Random Forest and SVM, perform excellently in terms of both accuracy and F1-Score. This analysis can be useful for businesses to tailor marketing strategies and understand customer preferences better.
+![Alien Shooter Logo](Visualisasi/PCA_2D.png)
+![Alien Shooter Logo](Visualisasi/PCA_3D.png)
 
 
